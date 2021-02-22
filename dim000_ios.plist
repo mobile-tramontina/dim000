@@ -44,7 +44,7 @@
                     <string>net.tramontina.dim000</string>
                     <!-- optional (software only) -->
                     <key>bundle-version</key>
-                    <string>1.09</string>
+                    <string>1.10</string>
                     <!-- required. the download kind. -->
                     <key>kind</key>
                     <string>software</string>
